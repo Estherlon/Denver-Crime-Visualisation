@@ -1,5 +1,5 @@
 # Denver-Crime-Visualisation
-![alt text](./welcome+page.JPG)
+![alt text](./welcome page.JPG)
 
 ![alt text](./neighbourhood.JPG)
 
